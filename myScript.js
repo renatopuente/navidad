@@ -27,8 +27,8 @@ let select = s => document.querySelector(s),
 		baubleArray = [],
 		woodColor = '#A63C06',
 		treeColor = '#0F7173',
-    subm1Str = 'MUEVE EL MOUSE',
-    subm2Str = 'ADORNA EL ÁRBOL,
+    subm1Str = 'MUEVE TU MOUSE Y',
+    subm2Str = 'ADORNA EL ÁRBOL 🎄,
 		followerVX = 0,
 		followerVY = 0
     
