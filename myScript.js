@@ -28,7 +28,7 @@ let select = s => document.querySelector(s),
 		woodColor = '#A63C06',
 		treeColor = '#0F7173',
     subm1Str = 'MUEVE TU MOUSE Y',
-    subm2Str = 'ADORNA EL ÁRBOL 🎄,
+    subm2Str = 'ADORNA EL ÁRBOL 🎄',
 		followerVX = 0,
 		followerVY = 0
     
